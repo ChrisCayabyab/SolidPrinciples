@@ -54,6 +54,4 @@ public class OrderTest {
 }
 
 # UML
-
-![Blank diagram (9)](https://github.com/ChrisCayabyab/SolidPrinciples/assets/142383617/44c41a0e-b3e0-4f86-ba02-6bb67ff9eedb)
-
+![Blank diagram (10)](https://github.com/ChrisCayabyab/SolidPrinciples/assets/142383617/2f44152d-4624-4a6d-9ad0-5106bb9685cf)
